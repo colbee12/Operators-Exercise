@@ -18,7 +18,7 @@
             Console.WriteLine("what is the radius of the circle");
             double radius = double.Parse(Console.ReadLine());
             double areaOfCircle = AreaOfCircle(radius);
-            Console.WriteLine($"the area {areaOfCircle}");
+            Console.WriteLine($"the area the circle with a radius of {radius} is {areaOfCircle}");
             
             
             
